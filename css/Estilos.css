@@ -32,13 +32,3 @@ body {
 #container h1 {
     font-size: 20px;
 }
-
-#cabecera {
-    background-color: #4bdbff; /* Color de fondo */
-    color: #000000; /* Color del texto */
-    padding: 20px; /* Espaciado interno */
-    font-size: 24px; /* Tamaño de fuente */
-    text-align: center; /* Alineación del texto */
-    border-bottom: 2px solid #ccc; /* Borde inferior */
-    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Sombra */
-}
