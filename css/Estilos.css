@@ -1,18 +1,30 @@
-body{
+body {
     color: rgb(16, 51, 39);
-    text-align:center;
+    text-align: center;
     font-family: Arial;
     font-size: 16px;
     margin: 0;
     padding: 0;
 }
-#container{
+
+#container {
     width: 70%;
-    padding: len;
+    padding: 20px; /* Puedes ajustar este valor según sea necesario */
     text-align: left;
     border: 1px solid #ddd;
     margin: 0 auto;
 }
-#container h1{
+
+#container h1 {
     font-size: 20px;
+}
+
+#cabecera {
+    background-color: #4bdbff; /* Color de fondo */
+    color: #000000; /* Color del texto */
+    padding: 20px; /* Espaciado interno */
+    font-size: 24px; /* Tamaño de fuente */
+    text-align: center; /* Alineación del texto */
+    border-bottom: 2px solid #ccc; /* Borde inferior */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Sombra */
 }
